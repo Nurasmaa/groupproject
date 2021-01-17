@@ -1,0 +1,35 @@
+
+body
+{
+  
+    padding: 10px;
+    cursor: pointer;
+   
+}
+
+
+
+
+button
+{
+	display:inline-flex;
+	font-weight: bold;
+	background-color:#F10F1A ;
+  border: solid;
+  font-family: audiowide;
+	text-align: center;
+	padding: 4px;
+	text-decoration: none;
+	border-radius: 5px;
+	font-size: 13px;
+  color: white;
+  border-color: black;
+
+}
+
+
+
+
+
+
+
